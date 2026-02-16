@@ -1,0 +1,30 @@
+{
+  "default_model": "WAI_NSFW-illustrious_NSFW-illustrious-SDXL_16.safetensors",
+  "default_refiner": "None",
+  "default_refiner_switch": 0.5,
+  "default_loras": [
+    [true, "dota2_marci_ponyXL.safetensors", 0.9],
+    [true, "None", 1.0],
+    [true, "None", 1.0],
+    [true, "None", 1.0],
+    [true, "None", 1.0]
+  ],
+  "default_cfg_scale": 6.0,
+  "default_sample_sharpness": 2.0,
+  "default_sampler": "dpmpp_2m_sde_gpu",
+  "default_scheduler": "karras",
+  "default_performance": "Speed",
+  "default_prompt": "",
+  "default_prompt_negative": "",
+  "default_styles": ["Fooocus V2", "Fooocus Semi Realistic", "Fooocus Masterpiece"],
+  "default_aspect_ratio": "896*1152",
+  "default_overwrite_step": -1,
+  "checkpoint_downloads": {
+    "WAI_NSFW-illustrious_NSFW-illustrious-SDXL_16.safetensors": "https://models-online-persist.shakker.cloud/web/model/50ac2e05a7a34471b1e9a339b4527cd7/3c7fe76183f90c2fe4a7e2033b99418d5cd2ae27733fa8667385545fe87951b8.safetensors?auth_key=1771232855-a2ab7d53dc8c4d7aa950bc6b99f80ec5-0-1ea0cb90a17dce8128ab5f760f6694c9&attname=WAI_NSFW-illustrious_NSFW-illustrious-SDXL_16.safetensors"
+  },
+  "embeddings_downloads": {},
+  "lora_downloads": {
+    "dota2_marci_ponyXL.safetensors": "https://civitai.green/api/download/models/402907?type=Model&format=SafeTensor"
+  },
+  "previous_default_models": []
+}
