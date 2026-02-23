@@ -3,8 +3,8 @@
   "default_refiner": "None",
   "default_refiner_switch": 0.5,
   "default_loras": [
-    [true, "dota2_marci_ponyXL.safetensors", 0.9],
-    [true, "None", 1.0],
+    [true, "dota2_marci_ponyXL.safetensors", 1.0],
+    [true, "iris_sticker-12.safetensors", 1.0],
     [true, "None", 1.0],
     [true, "None", 1.0],
     [true, "None", 1.0]
@@ -21,7 +21,7 @@
   "default_overwrite_step": -1,
   "checkpoint_downloads": {
     "reedXXXIllustrious_v80LNY.safetensors": "https://drive.usercontent.google.com/download?id=1zvTCbKlCyupNu7x56MI3kOjiJc_A4zNU&export=download&authuser=1&confirm=t&uuid=3c4ec7c7-8be3-441f-9116-a06fb59b3191&at=APcXIO2cEblLW8KFwZV2GIDwBFSr:1771259327181",
-    "Iris-15.safetensors": "https://drive.usercontent.google.com/u/0/uc?id=1jB-YeesJrzOgzWx4zO5nzb6KJK_Kv0Wo&export=download"
+    "iris_sticker-12.safetensorsors": "https://drive.usercontent.google.com/download?id=1vmcoD1sbnvU5seu3BAn8eVKCWvxDD58r&export=download&authuser=3&confirm=t&uuid=9e4fbafa-6b16-4240-9db6-3c2e45860f28&at=APcXIO1oIraiyokCPvjOhV_aI1kT:1771847647000"
   },
   "embeddings_downloads": {},
   "lora_downloads": {
