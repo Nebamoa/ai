@@ -5,7 +5,7 @@
   "default_loras": [
     [true, "dota2_marci_ponyXL.safetensors", 1.0],
     [true, "iris_sticker-12.safetensors", 1.0],
-    [true, "None", 1.0],
+    [true, "muff.safetensors", 1.0],
     [true, "None", 1.0],
     [true, "None", 1.0]
   ],
@@ -20,7 +20,7 @@
   "default_aspect_ratio": "896*1152",
   "default_overwrite_step": -1,
   "checkpoint_downloads": {
-    "reedXXXIllustrious_v80LNY.safetensors": "https://drive.usercontent.google.com/download?id=1zvTCbKlCyupNu7x56MI3kOjiJc_A4zNU&export=download&authuser=1&confirm=t&uuid=3c4ec7c7-8be3-441f-9116-a06fb59b3191&at=APcXIO2cEblLW8KFwZV2GIDwBFSr:1771259327181"
+    "reedXXXIllustrious_v90": "https://drive.usercontent.google.com/download?id=170A6we1Xt3IhDzhCivaRrXYToxPHGFsi&export=download&authuser=0&confirm=t&uuid=a452d62d-6691-46e0-a429-aa31c93f79b7&at=APcXIO3yGQfxfbk35JksCy2Xa3gg%3A1772208902741"
   },
   "embeddings_downloads": {},
   "lora_downloads": {
