@@ -20,7 +20,7 @@
   "default_aspect_ratio": "896*1152",
   "default_overwrite_step": -1,
   "checkpoint_downloads": {
-    "reedXXXIllustrious_v80LNY.safetensors": "https://drive.usercontent.google.com/download?id=1zvTCbKlCyupNu7x56MI3kOjiJc_A4zNU&export=download&authuser=1&confirm=t&uuid=3c4ec7c7-8be3-441f-9116-a06fb59b3191&at=APcXIO2cEblLW8KFwZV2GIDwBFSr:1771259327181"
+    "reedXXXIllustrious_v150.safetensors": "https://drive.usercontent.google.com/download?id=1KcMZXUIyQrJfe13YuGn0jAMKxF7IADbf&export=download&authuser=2&confirm=t&uuid=942e1514-0568-4c71-acfd-7c639a0ce01e&at=AMrWOn1rGPIScibU__3mCPRsJ6x5:1789742699961"
   },
   "embeddings_downloads": {},
   "lora_downloads": {},
